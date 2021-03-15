@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-15T22:24:00.003Z" host="app.diagrams.net" agent="5.0 (X11)" etag="8DiWkbpXo8Z3Be8Z-O23" version="14.4.8" type="github" pages="8">
+<mxfile modified="2021-03-15T23:19:22.717Z" host="app.diagrams.net" agent="5.0 (X11)" etag="nJQCP3B83tKyjPU-CzqZ" version="14.4.8" type="github" pages="9">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1673" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -37,6 +37,46 @@
         <mxCell id="5DSUDtC35_T95AFOWj9_-13" value="03-15-2021" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-11">
           <mxGeometry x="241" width="239" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TNJW8MqIrLPTKmgpcYY1" name="Tools Access">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="k9oYASrE61_Flc9L2wiH-0" />
+        <mxCell id="k9oYASrE61_Flc9L2wiH-1" parent="k9oYASrE61_Flc9L2wiH-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6DfbhvU6QvGVJ9Jlj1nC" name="3rd Party Tools">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OBYefMsah9vhrroJuVJh-0" />
+        <mxCell id="OBYefMsah9vhrroJuVJh-1" parent="OBYefMsah9vhrroJuVJh-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7Eq2iZMlCE94ZzEp3rU5" name="AWS Native Tools">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="pl66USKo-c9CJ2pZmYf6-0" />
+        <mxCell id="pl66USKo-c9CJ2pZmYf6-1" parent="pl66USKo-c9CJ2pZmYf6-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d3sZDU7oEJCSpJk3EtK5" name="Tools Integration">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="oZOsNrEoBuZHI2nFznKl-0" />
+        <mxCell id="oZOsNrEoBuZHI2nFznKl-1" parent="oZOsNrEoBuZHI2nFznKl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="B2zXzc6uQw-14dyHRu33" name="Monitoring Streams">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_J_hnxO8_xowhuvSg6g4-0" />
+        <mxCell id="_J_hnxO8_xowhuvSg6g4-1" parent="_J_hnxO8_xowhuvSg6g4-0" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -415,38 +455,6 @@
       <root>
         <mxCell id="D3bH0C1TvqdbU8z6rszH-0" />
         <mxCell id="D3bH0C1TvqdbU8z6rszH-1" parent="D3bH0C1TvqdbU8z6rszH-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="6DfbhvU6QvGVJ9Jlj1nC" name="3rd Party Tools">
-    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="OBYefMsah9vhrroJuVJh-0" />
-        <mxCell id="OBYefMsah9vhrroJuVJh-1" parent="OBYefMsah9vhrroJuVJh-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7Eq2iZMlCE94ZzEp3rU5" name="AWS Native Tools">
-    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="pl66USKo-c9CJ2pZmYf6-0" />
-        <mxCell id="pl66USKo-c9CJ2pZmYf6-1" parent="pl66USKo-c9CJ2pZmYf6-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="d3sZDU7oEJCSpJk3EtK5" name="Tools Integration">
-    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="oZOsNrEoBuZHI2nFznKl-0" />
-        <mxCell id="oZOsNrEoBuZHI2nFznKl-1" parent="oZOsNrEoBuZHI2nFznKl-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="B2zXzc6uQw-14dyHRu33" name="Monitoring Streams">
-    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="_J_hnxO8_xowhuvSg6g4-0" />
-        <mxCell id="_J_hnxO8_xowhuvSg6g4-1" parent="_J_hnxO8_xowhuvSg6g4-0" />
       </root>
     </mxGraphModel>
   </diagram>
