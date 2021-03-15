@@ -1,10 +1,10 @@
-<mxfile modified="2021-03-15T17:50:36.328Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="Y7fckkOAv6O-MuZPHLsS" version="14.4.4" type="github">
+<mxfile modified="2021-03-15T18:21:08.030Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="wVNmdCHXmih2ThGW0K4t" version="14.4.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-8" value="ACIOUNS Azure Cloud" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-8" value="ACIOUNS Azure Cloud" style="fillColor=none;strokeColor=#5A6C86;verticalAlign=top;fontStyle=0;labelBackgroundColor=#007FFF;fontColor=#FFFFFF;shadow=1;align=left;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="40" width="1040" height="760" as="geometry" />
         </mxCell>
         <mxCell id="YtoL3djgD-L9FTywLvLo-1" value="AWS Global Infrstructure" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;shadow=1;" parent="1" vertex="1">
@@ -137,8 +137,20 @@
         <mxCell id="_9101gVZ8E_oIvTuMDoi-4" value="Warm Failover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="780" y="730" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="_9101gVZ8E_oIvTuMDoi-7" target="_9101gVZ8E_oIvTuMDoi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Data_Shares.svg;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="418" width="64" height="55.00000000000001" as="geometry" />
+          <mxGeometry x="1340" y="290" width="64" height="55.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="_9101gVZ8E_oIvTuMDoi-9" target="_9101gVZ8E_oIvTuMDoi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Disks_Snapshots.svg;labelBackgroundColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1726" y="282" width="68" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;labelBackgroundColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="285.5" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
