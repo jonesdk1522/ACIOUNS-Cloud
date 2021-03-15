@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-15T19:27:16.242Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="zX7QCE9wlDQV_JG0xbO9" version="14.4.4" type="github">
+<mxfile modified="2021-03-15T19:36:26.182Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="E3NJx55A-3fx5u-SJOwt" version="14.4.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -143,73 +143,73 @@
           <mxGeometry x="960" y="562.4200000000001" width="38.46" height="46.15" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="40" width="539" height="793" as="geometry" />
+          <mxGeometry x="1215" y="17" width="539" height="793" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-34" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="51" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-34" value="&lt;span&gt;ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-W Region in AZ-a.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="28" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-35" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="57.5" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="34.5" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-36" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="121.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-36" value="ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-E Region in AZ-a." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="98.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-37" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="128" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="105" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-38" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="193.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-38" value="&lt;span&gt;EC2 instance Golden AMI used for rapid deployment of EC2s.&amp;nbsp;&lt;/span&gt;Used for DR Hot failover.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="170.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-39" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="200" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="177" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-40" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="263.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-40" value="&lt;span&gt;EC2 EBS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="240.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-41" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="270" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="247" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-42" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="333.5" width="449" height="72" as="geometry" />
+          <mxGeometry x="1285" y="310.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-43" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="340" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="317" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-44" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="403.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-44" value="Scheduled/Manual snapshots of AMIs, EBS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="380.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-45" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="410" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="387" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-46" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="473.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-46" value="&lt;span&gt;CloudFormation template&amp;nbsp;of tested environment&amp;nbsp;to provide automated environment deployment.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="450.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-47" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="480" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="457" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-48" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="543.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-48" value="&lt;span&gt;Source bucket with DR artifacts.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="520.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-49" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="550" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="527" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-50" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="613.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-50" value="&lt;span&gt;SRR DR artifacts. Supports&amp;nbsp;&lt;/span&gt;DR Hot failover in GC-US-W AZ-b.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="590.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-51" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="620" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="597" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-52" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="683.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-52" value="&lt;span&gt;CRR DR artifacts in GC-US-E Region&amp;nbsp; AZ-a and AZ-b. Used for DR Warm failover.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="660.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-53" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="690" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="667" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="_9101gVZ8E_oIvTuMDoi-54" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="753.5" width="449" height="72" as="geometry" />
+        <mxCell id="_9101gVZ8E_oIvTuMDoi-54" value="CloudFormation template&amp;nbsp;of tested environment&amp;nbsp;to provide automated environment deployment for GC-US-E Region&amp;nbsp; AZ-a and AZ-b. Used for DR Warm failover.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="730.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-55" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="760" width="23" height="23" as="geometry" />
+          <mxGeometry x="1235" y="737" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="_9101gVZ8E_oIvTuMDoi-56" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="238" y="136" width="23" height="23" as="geometry" />
