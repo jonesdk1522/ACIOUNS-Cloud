@@ -1,5 +1,46 @@
-<mxfile modified="2021-03-15T22:11:42.899Z" host="app.diagrams.net" agent="5.0 (X11)" etag="lsmNljinz2Q7uzOtuk9g" version="14.4.8" type="github" pages="2">
-  <diagram id="dawdO0rYxV0HjA8BzWCG" name="DR Hot Failover">
+<mxfile modified="2021-03-15T22:24:00.003Z" host="app.diagrams.net" agent="5.0 (X11)" etag="8DiWkbpXo8Z3Be8Z-O23" version="14.4.8" type="github" pages="8">
+  <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
+    <mxGraphModel dx="1673" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-0" />
+        <mxCell id="5DSUDtC35_T95AFOWj9_-1" parent="5DSUDtC35_T95AFOWj9_-0" />
+        <mxCell id="5DSUDtC35_T95AFOWj9_-3" value="&lt;h1 style=&quot;font-size: 33px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#7EA6E0&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;ACIOUNS Cloud Operations &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 33px&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#7EA6E0&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#7EA6E0&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Technical Solution &lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=0;shadow=0;fontStyle=0;sketch=0;glass=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-1">
+          <mxGeometry x="184" y="293" width="482" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-4" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;swimlaneFillColor=none;rounded=0;sketch=0;shadow=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-1">
+          <mxGeometry x="364" y="973" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-4">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-6" value="Architect" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=center;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-5">
+          <mxGeometry width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-7" value="Darryl (Kevin) Jones" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-5">
+          <mxGeometry x="241" width="239" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-4">
+          <mxGeometry y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-9" value="Version" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-8">
+          <mxGeometry width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-10" value="1.0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-8">
+          <mxGeometry x="241" width="239" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-4">
+          <mxGeometry y="80" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-12" value="Date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-11">
+          <mxGeometry width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DSUDtC35_T95AFOWj9_-13" value="03-15-2021" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="5DSUDtC35_T95AFOWj9_-11">
+          <mxGeometry x="241" width="239" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dawdO0rYxV0HjA8BzWCG" name="FT Hot Swap/DR Hot Failover">
     <mxGraphModel dx="1896" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="qWHWoW5mQvswW4hlOW4A-0" />
@@ -366,6 +407,46 @@
         <mxCell id="v60vcHo6msw3OX-dVEMf-2" value="Warm Failover - a" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="686.5" width="120" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sGn4RXD657Pezw8uWJS9" name="DR Cold Failover">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="D3bH0C1TvqdbU8z6rszH-0" />
+        <mxCell id="D3bH0C1TvqdbU8z6rszH-1" parent="D3bH0C1TvqdbU8z6rszH-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6DfbhvU6QvGVJ9Jlj1nC" name="3rd Party Tools">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="OBYefMsah9vhrroJuVJh-0" />
+        <mxCell id="OBYefMsah9vhrroJuVJh-1" parent="OBYefMsah9vhrroJuVJh-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7Eq2iZMlCE94ZzEp3rU5" name="AWS Native Tools">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="pl66USKo-c9CJ2pZmYf6-0" />
+        <mxCell id="pl66USKo-c9CJ2pZmYf6-1" parent="pl66USKo-c9CJ2pZmYf6-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d3sZDU7oEJCSpJk3EtK5" name="Tools Integration">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="oZOsNrEoBuZHI2nFznKl-0" />
+        <mxCell id="oZOsNrEoBuZHI2nFznKl-1" parent="oZOsNrEoBuZHI2nFznKl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="B2zXzc6uQw-14dyHRu33" name="Monitoring Streams">
+    <mxGraphModel dx="1422" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_J_hnxO8_xowhuvSg6g4-0" />
+        <mxCell id="_J_hnxO8_xowhuvSg6g4-1" parent="_J_hnxO8_xowhuvSg6g4-0" />
       </root>
     </mxGraphModel>
   </diagram>
