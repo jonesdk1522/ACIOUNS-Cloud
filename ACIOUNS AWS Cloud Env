@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-15T23:59:21.919Z" host="app.diagrams.net" agent="5.0 (X11)" etag="QiwGDUWcCPxgUeCdloiQ" version="14.4.8" type="github" pages="10">
+<mxfile modified="2021-03-16T00:04:04.394Z" host="app.diagrams.net" agent="5.0 (X11)" etag="eEUS2_5b0-Qo_G4-n2q5" version="14.4.8" type="github" pages="10">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1673" dy="893" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -142,43 +142,43 @@
         <mxCell id="EWqhnP0zxHBLu28JC8jC-0" />
         <mxCell id="EWqhnP0zxHBLu28JC8jC-1" parent="EWqhnP0zxHBLu28JC8jC-0" />
         <mxCell id="EWqhnP0zxHBLu28JC8jC-2" value="AWS Global Infrstructure" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;shadow=1;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="40" y="200" width="800" height="871.5" as="geometry" />
+          <mxGeometry x="40" y="200" width="770" height="871.5" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-3" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
           <mxGeometry x="65" y="520" width="720" height="518" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1006" y="418" width="539" height="401.5" as="geometry" />
+          <mxGeometry x="910" y="435" width="539" height="401.5" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-5" value="&lt;span&gt;ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-W Region in AZ-a.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1076" y="429" width="449" height="72" as="geometry" />
+          <mxGeometry x="980" y="446" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-6" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1026" y="435.5" width="23" height="23" as="geometry" />
+          <mxGeometry x="930" y="452.5" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-7" value="ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-E Region in AZ-a." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1076" y="499.5" width="449" height="72" as="geometry" />
+          <mxGeometry x="980" y="516.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-8" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1026" y="506" width="23" height="23" as="geometry" />
+          <mxGeometry x="930" y="523" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-9" value="&lt;span&gt;EC2 instance Golden AMI used for rapid deployment of EC2s.&amp;nbsp;&lt;/span&gt;Used for DR Hot failover.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1076" y="571.5" width="449" height="72" as="geometry" />
+          <mxGeometry x="980" y="588.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-10" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1026" y="578" width="23" height="23" as="geometry" />
+          <mxGeometry x="930" y="595" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-11" value="&lt;span&gt;EC2 EBS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1076" y="641.5" width="449" height="72" as="geometry" />
+          <mxGeometry x="980" y="658.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-12" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1026" y="648" width="23" height="23" as="geometry" />
+          <mxGeometry x="930" y="665" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-13" value="CRR" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1076" y="711.5" width="449" height="72" as="geometry" />
+          <mxGeometry x="980" y="728.5" width="449" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-14" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="EWqhnP0zxHBLu28JC8jC-1">
-          <mxGeometry x="1026" y="718" width="23" height="23" as="geometry" />
+          <mxGeometry x="930" y="735" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EWqhnP0zxHBLu28JC8jC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EWqhnP0zxHBLu28JC8jC-1">
           <mxGeometry relative="1" as="geometry">
