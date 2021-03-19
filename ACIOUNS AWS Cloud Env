@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-19T19:11:07.522Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="_z_ogxT9MVIz4ngGNQox" version="14.4.9" type="github" pages="18">
+<mxfile modified="2021-03-19T19:26:17.195Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="XftnVd0ewGscZG9QELAU" version="14.4.9" type="github" pages="19">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1482" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -1401,6 +1401,23 @@
         </mxCell>
         <mxCell id="wWh1ioGDl5DhsFT0QU_P-30" value="Splunk traffic to on-prem" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="wWh1ioGDl5DhsFT0QU_P-1">
           <mxGeometry x="210" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E2dH1lsDUL4hwUzVp948" name="Tool Access">
+    <mxGraphModel dx="1482" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="IgJPW9v5qdwrVdtjF7S7-0" />
+        <mxCell id="IgJPW9v5qdwrVdtjF7S7-1" parent="IgJPW9v5qdwrVdtjF7S7-0" />
+        <mxCell id="IgJPW9v5qdwrVdtjF7S7-2" value="Corporate data center" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;shadow=1;sketch=0;" vertex="1" parent="IgJPW9v5qdwrVdtjF7S7-1">
+          <mxGeometry x="30" y="280" width="370" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IgJPW9v5qdwrVdtjF7S7-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;sketch=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="IgJPW9v5qdwrVdtjF7S7-1">
+          <mxGeometry x="110" y="800" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IgJPW9v5qdwrVdtjF7S7-4" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;sketch=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="IgJPW9v5qdwrVdtjF7S7-1">
+          <mxGeometry x="230" y="800" width="50" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
