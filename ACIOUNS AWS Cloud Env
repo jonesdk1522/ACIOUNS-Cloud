@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-05T16:09:30.311Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ho30yGzgASwPW2v7I6WO" version="14.5.4" type="github" pages="20">
+<mxfile modified="2021-04-05T16:25:41.390Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="CXDy73i4DdPUJtSxny1L" version="14.5.4" type="github" pages="20">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1220" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -715,48 +715,54 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Aternity" id="vylGsfdz5V2y5_S9Tn2-">
-    <mxGraphModel dx="2107" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2889" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="t80jdTDKu9Zo_k24CBrb-0" />
         <mxCell id="t80jdTDKu9Zo_k24CBrb-1" parent="t80jdTDKu9Zo_k24CBrb-0" />
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1006" y="332" width="539" height="436" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-12" value="" style="group" vertex="1" connectable="0" parent="t80jdTDKu9Zo_k24CBrb-1">
+          <mxGeometry x="124" y="510" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-21" value="&lt;span&gt;ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-W Region in AZ-a.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="343" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="80e3_UWD951eHv8dIReX-12">
+          <mxGeometry x="36" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-22" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="349.5" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-6" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="80e3_UWD951eHv8dIReX-12">
+          <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-23" value="ACIOUNS cloud monitoring toolsets configured&amp;nbsp;in an ASG for Active/Active inside the GC-US-E Region in AZ-a." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="413.5" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-13" value="" style="group" vertex="1" connectable="0" parent="t80jdTDKu9Zo_k24CBrb-1">
+          <mxGeometry x="304" y="510" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-24" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="420" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="80e3_UWD951eHv8dIReX-13">
+          <mxGeometry x="36" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-25" value="&lt;span&gt;EC2 instance Golden AMI used for rapid deployment of EC2s.&amp;nbsp;&lt;/span&gt;Used for DR Hot failover.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="485.5" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-9" value="UI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="80e3_UWD951eHv8dIReX-13">
+          <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-26" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="492" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-14" value="" style="group" vertex="1" connectable="0" parent="t80jdTDKu9Zo_k24CBrb-1">
+          <mxGeometry x="480" y="510" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-27" value="&lt;span&gt;EC2 EBS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="555.5" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-5" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="80e3_UWD951eHv8dIReX-14">
+          <mxGeometry x="36" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-28" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="562" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-7" value="Parser" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="80e3_UWD951eHv8dIReX-14">
+          <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-29" value="&lt;span&gt;Replicated EC2 EBS&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="625.5" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-15" value="" style="group" vertex="1" connectable="0" parent="t80jdTDKu9Zo_k24CBrb-1">
+          <mxGeometry x="634" y="510" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-30" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="632" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-4" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="80e3_UWD951eHv8dIReX-15">
+          <mxGeometry x="36" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-31" value="Scheduled/Manual snapshots of AMIs, EBS." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1076" y="695.5" width="449" height="72" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-8" value="Indexer" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="80e3_UWD951eHv8dIReX-15">
+          <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t80jdTDKu9Zo_k24CBrb-32" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="t80jdTDKu9Zo_k24CBrb-1" vertex="1">
-          <mxGeometry x="1026" y="702" width="23" height="23" as="geometry" />
+        <mxCell id="80e3_UWD951eHv8dIReX-16" value="" style="group" vertex="1" connectable="0" parent="t80jdTDKu9Zo_k24CBrb-1">
+          <mxGeometry x="-6" y="510" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80e3_UWD951eHv8dIReX-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.db_on_instance2;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="80e3_UWD951eHv8dIReX-16">
+          <mxGeometry x="36" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="80e3_UWD951eHv8dIReX-10" value="DB" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="80e3_UWD951eHv8dIReX-16">
+          <mxGeometry y="70" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
