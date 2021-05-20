@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T16:30:47.258Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="AncDGA9ZxhhTHkB4FiNS" version="14.6.12" type="github" pages="27">
+<mxfile modified="2021-05-20T16:31:20.997Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="kI9t3bHGojVXfaVz60cK" version="14.6.12" type="github" pages="27">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1662" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -2341,6 +2341,9 @@
         </mxCell>
         <mxCell id="fr4-gHn6iHccyZ6KwKvh-2" value="Assessments" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;" vertex="1" parent="1y30qXTR1iZHYJEc5twP-1">
           <mxGeometry x="625.25" y="461" width="87.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fr4-gHn6iHccyZ6KwKvh-3" value="Notification Email" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;" vertex="1" parent="1y30qXTR1iZHYJEc5twP-1">
+          <mxGeometry x="245" y="500" width="110" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
