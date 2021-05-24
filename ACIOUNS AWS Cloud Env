@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T15:59:44.106Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="DVv0cl33q4OfMiwLkZPL" version="14.6.13" type="github" pages="27">
+<mxfile modified="2021-05-24T16:04:42.561Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="SiYZN61WZ06cG0ymd231" version="14.6.13" type="github" pages="27">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -832,7 +832,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H-sROXiY5EUx7WK7RXVE" name="Gigamon Flow Diagram">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="xC9A3KtrA_VJ7HxzghH4-0" />
         <mxCell id="xC9A3KtrA_VJ7HxzghH4-1" parent="xC9A3KtrA_VJ7HxzghH4-0" />
@@ -902,14 +902,14 @@
         <mxCell id="tC-JrGtMw19Z5ckdTDB1-3" value="VNodes" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
           <mxGeometry x="505.5" y="461" width="89" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="tC-JrGtMw19Z5ckdTDB1-4" value="Tools" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
+        <mxCell id="tC-JrGtMw19Z5ckdTDB1-4" value="AppResponse" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
           <mxGeometry x="701.5" y="675" width="89" height="22" as="geometry" />
         </mxCell>
         <mxCell id="tC-JrGtMw19Z5ckdTDB1-6" value="Mirrored ENI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
           <mxGeometry x="701.5" y="461" width="89" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="tC-JrGtMw19Z5ckdTDB1-7" value="Workloads" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
-          <mxGeometry x="897.5" y="461" width="89" height="22" as="geometry" />
+        <mxCell id="tC-JrGtMw19Z5ckdTDB1-7" value="ECM Workloads" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
+          <mxGeometry x="893.25" y="461" width="97.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="s3IU9F_KwxcXqG7vm9gn-1" value="Provisions ENI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="xC9A3KtrA_VJ7HxzghH4-1" vertex="1">
           <mxGeometry x="390" y="227" width="89" height="22" as="geometry" />
