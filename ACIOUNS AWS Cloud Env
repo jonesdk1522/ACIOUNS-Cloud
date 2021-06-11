@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-11T16:43:35.037Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="pzTeTdIWjtCZv8Cn0TP5" version="14.7.7" type="github" pages="28">
+<mxfile modified="2021-06-11T16:49:35.817Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="eJKXq9kSazOw5PYlX3iz" version="14.7.7" type="github" pages="28">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="2942" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -3386,10 +3386,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-K-vvC5Xkg_IStJ-Me4t" name="Page-28">
-    <mxGraphModel dx="4561" dy="2181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6684" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZLgk9ARcMlmKFDolM39u-0" />
         <mxCell id="ZLgk9ARcMlmKFDolM39u-1" parent="ZLgk9ARcMlmKFDolM39u-0" />
+        <mxCell id="BW_f-YqzVs9KfvHbyRsS-24" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
+          <mxGeometry x="-480" y="-600" width="2800" height="2360" as="geometry" />
+        </mxCell>
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-29" value="Corporate data center" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="2679" y="840" width="320" height="400" as="geometry" />
         </mxCell>
@@ -3766,9 +3769,6 @@
             <mxPoint x="2800" y="1019.5" as="sourcePoint" />
             <mxPoint x="1998" y="1019.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BW_f-YqzVs9KfvHbyRsS-24" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
-          <mxGeometry x="90" y="390" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-25" value="Corporate data center" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="3160" y="240" width="920" height="1120" as="geometry" />
