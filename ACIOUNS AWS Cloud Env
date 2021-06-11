@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-11T00:57:59.831Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="A18wQJ-gaZAPyKEcMDpn" version="14.6.6" type="github" pages="28">
+<mxfile modified="2021-06-11T00:59:41.219Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="IJRPJdodsI-vuSwejZhH" version="14.6.6" type="github" pages="28">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1398" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -3529,12 +3529,6 @@
         </mxCell>
         <mxCell id="ZLgk9ARcMlmKFDolM39u-42" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="140" y="386" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="ZLgk9ARcMlmKFDolM39u-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="ZLgk9ARcMlmKFDolM39u-1" source="ZLgk9ARcMlmKFDolM39u-47" target="ZLgk9ARcMlmKFDolM39u-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZLgk9ARcMlmKFDolM39u-47" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
-          <mxGeometry x="600" y="960" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
