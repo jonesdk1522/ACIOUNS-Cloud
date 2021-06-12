@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-12T22:11:26.422Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="h9ShS7OGAkj_QX03CiS2" version="14.7.7" type="github" pages="28">
+<mxfile modified="2021-06-12T22:13:55.477Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="7Q4GOPTBwHuqHE4m1F6G" version="14.7.7" type="github" pages="28">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="2942" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -3386,7 +3386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-K-vvC5Xkg_IStJ-Me4t" name="Page-28">
-    <mxGraphModel dx="3260" dy="3060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6704" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZLgk9ARcMlmKFDolM39u-0" />
         <mxCell id="ZLgk9ARcMlmKFDolM39u-1" parent="ZLgk9ARcMlmKFDolM39u-0" />
@@ -4125,6 +4125,12 @@
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-114" value="Vertical Container" style="swimlane;sketch=0;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;startSize=40;shadow=1;swimlaneFillColor=#E6E6E6;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="-480" y="1790" width="2800" height="1010" as="geometry" />
         </mxCell>
+        <mxCell id="BW_f-YqzVs9KfvHbyRsS-322" value="28" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;shadow=1;align=center;verticalAlign=middle;" vertex="1" parent="BW_f-YqzVs9KfvHbyRsS-114">
+          <mxGeometry x="2031" y="900" width="47.61904761904761" height="47.61904761904761" as="geometry" />
+        </mxCell>
+        <mxCell id="BW_f-YqzVs9KfvHbyRsS-323" value="Direct Connect Gateway" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=25;shadow=1;" vertex="1" parent="BW_f-YqzVs9KfvHbyRsS-114">
+          <mxGeometry x="2091" y="880" width="480" height="86" as="geometry" />
+        </mxCell>
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-219" value="14" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;shadow=1;align=center;verticalAlign=middle;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="351" y="2280" width="47.61904761904761" height="47.61904761904761" as="geometry" />
         </mxCell>
@@ -4158,7 +4164,7 @@
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-267" value="19" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;shadow=1;align=center;verticalAlign=middle;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="951" y="2412" width="47.61904761904761" height="47.61904761904761" as="geometry" />
         </mxCell>
-        <mxCell id="BW_f-YqzVs9KfvHbyRsS-268" value="DR Region Route Table Association to TGW" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=25;shadow=1;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
+        <mxCell id="BW_f-YqzVs9KfvHbyRsS-268" value="Secondary TGW" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=25;shadow=1;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="1011" y="2392" width="480" height="86" as="geometry" />
         </mxCell>
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-271" value="20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;shadow=1;align=center;verticalAlign=middle;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
