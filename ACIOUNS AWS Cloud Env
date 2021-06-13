@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-12T22:14:50.588Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="PT6fIuvGJmMyol0-h2h1" version="14.7.7" type="github" pages="28">
+<mxfile modified="2021-06-13T01:24:46.258Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="OmYuC7k_u1zUrnnxynUx" version="14.7.7" type="github" pages="28">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="2942" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -3386,7 +3386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-K-vvC5Xkg_IStJ-Me4t" name="Page-28">
-    <mxGraphModel dx="6704" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZLgk9ARcMlmKFDolM39u-0" />
         <mxCell id="ZLgk9ARcMlmKFDolM39u-1" parent="ZLgk9ARcMlmKFDolM39u-0" />
@@ -4293,7 +4293,7 @@
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-248" value="Cross Region Replication" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=25;shadow=1;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
           <mxGeometry x="1011" y="2000" width="480" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="BW_f-YqzVs9KfvHbyRsS-307" style="edgeStyle=none;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;dashed=1;fontSize=25;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="ZLgk9ARcMlmKFDolM39u-1" source="BW_f-YqzVs9KfvHbyRsS-306" target="BW_f-YqzVs9KfvHbyRsS-18">
+        <mxCell id="BW_f-YqzVs9KfvHbyRsS-307" style="edgeStyle=none;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;dashed=1;fontSize=25;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZLgk9ARcMlmKFDolM39u-1" source="BW_f-YqzVs9KfvHbyRsS-306" target="BW_f-YqzVs9KfvHbyRsS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BW_f-YqzVs9KfvHbyRsS-306" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transit_gateway;shadow=1;sketch=0;" vertex="1" parent="ZLgk9ARcMlmKFDolM39u-1">
