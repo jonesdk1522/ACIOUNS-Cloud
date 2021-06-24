@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-24T23:24:58.780Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="osjuKTu1FRBo8QGxODtN" version="14.7.7" type="github" pages="30">
+<mxfile modified="2021-06-24T23:34:26.382Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="b61qjtGbxo1qxiGHCrwT" version="14.7.7" type="github" pages="30">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4552,6 +4552,21 @@
         </mxCell>
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-7" value="Monitored Bucket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="267.5" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-8" value="Logging Bucket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="577.5" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-9" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mfa_token;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="70" y="570" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="vSv38Sczxz3cao9T8GM7-1" source="pGZ2jMuaTwXl4OpZmmDi-10" target="pGZ2jMuaTwXl4OpZmmDi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-10" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="790" y="303" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-13" value="Logged Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="759" y="380" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
