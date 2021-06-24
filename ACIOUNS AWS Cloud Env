@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-24T23:38:39.461Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="B0z9rlpazZrp6ciPTGT4" version="14.7.7" type="github" pages="30">
+<mxfile modified="2021-06-24T23:44:54.009Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="kAqVb0jXsyS2Pr2E4kHZ" version="14.7.7" type="github" pages="30">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4510,7 +4510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AO9t5q6-5vu3PwD3TQuC" name="Page-30">
-    <mxGraphModel dx="954" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="vSv38Sczxz3cao9T8GM7-0" />
         <mxCell id="vSv38Sczxz3cao9T8GM7-1" parent="vSv38Sczxz3cao9T8GM7-0" />
@@ -4573,6 +4573,19 @@
         </mxCell>
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-13" value="Delete Logged Object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="759" y="375" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="vSv38Sczxz3cao9T8GM7-1" source="pGZ2jMuaTwXl4OpZmmDi-17" target="NRrVJQVMfgIjBF8jjyY0-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;dashed=1;" edge="1" parent="vSv38Sczxz3cao9T8GM7-1" source="pGZ2jMuaTwXl4OpZmmDi-17" target="pGZ2jMuaTwXl4OpZmmDi-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="69" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-17" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudtrail;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="511" y="30" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
