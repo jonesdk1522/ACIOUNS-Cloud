@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-25T00:54:19.404Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="owDZm6TSVHhp1evVrF1G" version="14.7.7" type="github" pages="30">
+<mxfile modified="2021-06-25T00:56:28.501Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="OGe2sZc1w-A3MzzfDsqH" version="14.7.7" type="github" pages="30">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4640,8 +4640,8 @@
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-33" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="976" y="215" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-35" value="Root Account Owner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
-          <mxGeometry x="960" y="310" width="110" height="30" as="geometry" />
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-35" value="Root Account Owner - CLI to enable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="960" y="310" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
