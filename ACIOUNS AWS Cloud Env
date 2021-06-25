@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-25T00:57:38.392Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="i917dZ_Lfc1VnnXZ_w6m" version="14.7.7" type="github" pages="30">
+<mxfile modified="2021-06-25T00:58:58.161Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="nDAQ-O3fmvKYQzXZ1B2a" version="14.7.7" type="github" pages="30">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4547,7 +4547,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-4" value="users" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-4" value="" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="20" y="316" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-6" value="Object Uploaded/Downloaded/Deleted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
@@ -4642,6 +4642,9 @@
         </mxCell>
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-35" value="Root Account Owner - CLI to enable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="960" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-36" value="S3 USers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+          <mxGeometry x="13.5" y="390" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
