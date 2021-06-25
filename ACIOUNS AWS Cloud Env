@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-25T00:58:58.161Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="nDAQ-O3fmvKYQzXZ1B2a" version="14.7.7" type="github" pages="30">
+<mxfile modified="2021-06-25T01:01:13.389Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="nSYdT8j5Kb7RaXoL22Mf" version="14.7.7" type="github" pages="30">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4598,7 +4598,7 @@
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;shadow=1;" edge="1" parent="vSv38Sczxz3cao9T8GM7-1" source="pGZ2jMuaTwXl4OpZmmDi-17" target="pGZ2jMuaTwXl4OpZmmDi-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-17" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudtrail;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
+        <mxCell id="pGZ2jMuaTwXl4OpZmmDi-17" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudtrail;shadow=1;sketch=0;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
           <mxGeometry x="431" y="45" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="pGZ2jMuaTwXl4OpZmmDi-20" value="MGMT &amp;amp; S3 Data Logging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="vSv38Sczxz3cao9T8GM7-1">
