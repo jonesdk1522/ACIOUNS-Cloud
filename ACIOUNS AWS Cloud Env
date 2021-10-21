@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-21T16:12:14.401Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZD19am_Vd055A99hZ6EC" version="15.5.6" type="github" pages="32">
+<mxfile modified="2021-10-21T16:12:23.334Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-7QqlzA7Vou5oz2MdDdo" version="15.5.6" type="github" pages="32">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -4942,7 +4942,7 @@
           <mxGeometry x="1170" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wglgEYCiMTQSHYqZt20a-7" value="Cloud Core" style="rounded=1;whiteSpace=wrap;html=1;" parent="wglgEYCiMTQSHYqZt20a-1" vertex="1">
-          <mxGeometry x="1011" y="712" width="120" height="60" as="geometry" />
+          <mxGeometry x="1004" y="711" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wglgEYCiMTQSHYqZt20a-8" value="Cloud Arch" style="rounded=1;whiteSpace=wrap;html=1;" parent="wglgEYCiMTQSHYqZt20a-1" vertex="1">
           <mxGeometry x="1170" y="780" width="120" height="60" as="geometry" />
