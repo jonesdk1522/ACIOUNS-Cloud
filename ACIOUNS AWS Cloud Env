@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-26T18:48:20.150Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="jf_QhZm5vhfmQLuRnyyi" version="15.5.8" type="github" pages="32">
+<mxfile modified="2021-10-26T18:51:25.351Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="S2CI35WYjAQ0-jcAHY4y" version="15.5.8" type="github" pages="32">
   <diagram id="3yU4pcRIojh-kbjbVprl" name="Front-page">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -2963,12 +2963,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4fohMPInIcdc2Wl32Snf" name="10K Foot View">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="5S8KyfQf7_MGRbG9Hmqr-0" />
         <mxCell id="5S8KyfQf7_MGRbG9Hmqr-1" parent="5S8KyfQf7_MGRbG9Hmqr-0" />
         <mxCell id="6_FzrAopclLdNo1YAzYl-3" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;shadow=1;" parent="5S8KyfQf7_MGRbG9Hmqr-1" vertex="1">
-          <mxGeometry x="45" y="560" width="760" height="520" as="geometry" />
+          <mxGeometry x="45" y="570" width="760" height="520" as="geometry" />
         </mxCell>
         <mxCell id="6_FzrAopclLdNo1YAzYl-19" value="Treasury AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;shadow=1;" parent="5S8KyfQf7_MGRbG9Hmqr-1" vertex="1">
           <mxGeometry x="320" y="720" width="440" height="320" as="geometry" />
@@ -3051,6 +3051,13 @@
         </mxCell>
         <mxCell id="V8BIcl5-q2N2Fdzk4Nw8-3" value="Oracle" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;dashed=1;strokeColor=#FF0000;" vertex="1" parent="5S8KyfQf7_MGRbG9Hmqr-1">
           <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BIcl5-q2N2Fdzk4Nw8-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="5S8KyfQf7_MGRbG9Hmqr-1" source="6_FzrAopclLdNo1YAzYl-19" target="6_FzrAopclLdNo1YAzYl-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
