@@ -1,4 +1,4 @@
-<mxfile type="github" version="15.6.3" pages="33" etag="Y0aUWtqJ-q6TnItkHHkS" agent="5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; Zoom 3.6.0; wbx 1.0.0; Zoom 3.6.0; rv:11.0) like Gecko" host="app.diagrams.net" modified="2021-11-01T16:39:24.256Z">
+<mxfile type="github" version="15.6.3" pages="34" etag="dMkrCUtvnpl0_e1H-ogh" agent="5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; Zoom 3.6.0; wbx 1.0.0; Zoom 3.6.0; rv:11.0) like Gecko" host="app.diagrams.net" modified="2021-11-01T16:49:00.672Z">
   <diagram name="Front-page" id="3yU4pcRIojh-kbjbVprl">
     <mxGraphModel grid="0" shadow="1" math="0" pageHeight="1100" pageWidth="850" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="756" dx="1422">
       <root>
@@ -2150,7 +2150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pipeline - Main" id="X8VdXRxMu1fcl7HcFoNp">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="762" dx="1422">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="756" dx="1362">
       <root>
         <mxCell id="fv8Ffz_D50r5JTCHKGq4-0" />
         <mxCell id="fv8Ffz_D50r5JTCHKGq4-1" parent="fv8Ffz_D50r5JTCHKGq4-0" />
@@ -2249,7 +2249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pipeline - Detailed" id="dWrpQq984XvjPBv5subl">
-    <mxGraphModel grid="1" shadow="1" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="762" dx="1422">
+    <mxGraphModel grid="1" shadow="1" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="756" dx="1362">
       <root>
         <mxCell id="1y30qXTR1iZHYJEc5twP-0" />
         <mxCell id="1y30qXTR1iZHYJEc5twP-1" parent="1y30qXTR1iZHYJEc5twP-0" />
@@ -5055,6 +5055,90 @@
         </mxCell>
         <mxCell value="" id="5je_O1sjcKnhlmAvLM_I-14" parent="5je_O1sjcKnhlmAvLM_I-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#E6D0DE;">
           <mxGeometry as="geometry" height="130" width="160" y="58" x="420" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-34" id="SZLKevaEWmz7pjbuvbbb">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1100" pageWidth="850" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="889" dx="1602">
+      <root>
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-0" />
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-1" parent="rDoJs_dfXZoOTeD0hONF-0" />
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-3" parent="rDoJs_dfXZoOTeD0hONF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" source="rDoJs_dfXZoOTeD0hONF-5">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" y="581" x="1230" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-4" parent="rDoJs_dfXZoOTeD0hONF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF0000;" edge="1" target="rDoJs_dfXZoOTeD0hONF-31" source="rDoJs_dfXZoOTeD0hONF-5">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="441" x="1103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-5" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.change_set;">
+          <mxGeometry as="geometry" height="78" width="65" y="542" x="1070" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-11" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.stack;">
+          <mxGeometry as="geometry" height="76" width="78" y="543" x="1392" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-13" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.template;">
+          <mxGeometry as="geometry" height="78" width="65" y="410" x="420" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-14" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;">
+          <mxGeometry as="geometry" height="78" width="75" y="420" x="290" />
+        </mxCell>
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-19" parent="rDoJs_dfXZoOTeD0hONF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;dashed=1;" edge="1" target="rDoJs_dfXZoOTeD0hONF-14" source="rDoJs_dfXZoOTeD0hONF-20">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-20" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.object;">
+          <mxGeometry as="geometry" height="48" width="48" y="580" x="303.5" />
+        </mxCell>
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-21" parent="rDoJs_dfXZoOTeD0hONF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" target="rDoJs_dfXZoOTeD0hONF-30" source="rDoJs_dfXZoOTeD0hONF-22">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="759" x="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-22" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.email_notification;">
+          <mxGeometry as="geometry" height="78" width="78" y="580" x="643.5" />
+        </mxCell>
+        <mxCell id="rDoJs_dfXZoOTeD0hONF-29" parent="rDoJs_dfXZoOTeD0hONF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" target="rDoJs_dfXZoOTeD0hONF-20" source="rDoJs_dfXZoOTeD0hONF-30">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell value="users" id="rDoJs_dfXZoOTeD0hONF-30" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1">
+          <mxGeometry as="geometry" height="70" width="70" y="724" x="292.5" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-31" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.change_set;">
+          <mxGeometry as="geometry" height="78" width="65" y="402" x="1230" />
+        </mxCell>
+        <mxCell value="" id="rDoJs_dfXZoOTeD0hONF-32" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=#FFFF00;strokeColor=#b85450;fillColor=none;strokeWidth=4;perimeterSpacing=0;shadow=1;sketch=0;">
+          <mxGeometry as="geometry" height="80" width="80" y="400" x="1222.5" />
+        </mxCell>
+        <mxCell value="Approved" id="rDoJs_dfXZoOTeD0hONF-33" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="80" y="642" x="1142.5" />
+        </mxCell>
+        <mxCell value="Rejected" id="rDoJs_dfXZoOTeD0hONF-34" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;glass=0;">
+          <mxGeometry as="geometry" height="28" width="70" y="400" x="1130" />
+        </mxCell>
+        <mxCell value="Upload artifact" id="rDoJs_dfXZoOTeD0hONF-35" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="90" y="590" x="365" />
+        </mxCell>
+        <mxCell value="Pipeline triggered" id="rDoJs_dfXZoOTeD0hONF-36" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="30" width="110" y="342" x="150" />
+        </mxCell>
+        <mxCell value="CFN template" id="rDoJs_dfXZoOTeD0hONF-37" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="90" y="344" x="395" />
+        </mxCell>
+        <mxCell value="Create ChangeSet" id="rDoJs_dfXZoOTeD0hONF-38" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="110" y="427" x="970" />
+        </mxCell>
+        <mxCell value="Create Stack" id="rDoJs_dfXZoOTeD0hONF-39" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="90" y="642" x="1295" />
+        </mxCell>
+        <mxCell value="Notification Email" id="rDoJs_dfXZoOTeD0hONF-47" parent="rDoJs_dfXZoOTeD0hONF-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=#FFFF00;sketch=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;">
+          <mxGeometry as="geometry" height="28" width="110" y="720" x="455" />
         </mxCell>
       </root>
     </mxGraphModel>
