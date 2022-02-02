@@ -1,4 +1,4 @@
-<mxfile etag="eIf_O2TX5wiWCm6dv-ON" agent="5.0 (Macintosh)" host="app.diagrams.net" modified="2022-02-02T03:15:39.270Z" version="16.5.2" type="github" pages="34">
+<mxfile etag="zRZ34cQxYxhwGtmiT-Jk" agent="5.0 (Macintosh)" host="app.diagrams.net" modified="2022-02-02T03:15:54.886Z" version="16.5.2" type="github" pages="34">
   <diagram name="Front-page" id="3yU4pcRIojh-kbjbVprl">
     <mxGraphModel dx="1186" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -3801,7 +3801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Traffic to Firewalls" id="YeZ3umS6jMzi5D_i8rSU">
-    <mxGraphModel dx="652" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-0" />
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-1" parent="H-j0jCW5uO8hl8RQRp3t-0" />
@@ -3809,7 +3809,7 @@
           <mxGeometry x="737.5" y="760" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-7" value="East/West Traffic" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
-          <mxGeometry x="459" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="459" y="600" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;startArrow=none;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;dashed=1;" parent="H-j0jCW5uO8hl8RQRp3t-1" edge="1" source="ZZY_BQNLnis_9IbhfhJL-33">
           <mxGeometry relative="1" as="geometry">
