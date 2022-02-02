@@ -1,4 +1,4 @@
-<mxfile etag="7iXO3jcy_jWZVzLGra6T" agent="5.0 (Macintosh)" host="app.diagrams.net" modified="2022-02-02T03:12:04.016Z" version="16.5.2" type="github" pages="34">
+<mxfile etag="eIf_O2TX5wiWCm6dv-ON" agent="5.0 (Macintosh)" host="app.diagrams.net" modified="2022-02-02T03:15:39.270Z" version="16.5.2" type="github" pages="34">
   <diagram name="Front-page" id="3yU4pcRIojh-kbjbVprl">
     <mxGraphModel dx="1186" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -2942,7 +2942,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FT Hot Swap/DR Hot Failover" id="dawdO0rYxV0HjA8BzWCG">
-    <mxGraphModel dx="1186" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="qWHWoW5mQvswW4hlOW4A-0" />
         <mxCell id="qWHWoW5mQvswW4hlOW4A-1" parent="qWHWoW5mQvswW4hlOW4A-0" />
@@ -3081,7 +3081,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR Warm Failover" id="Ht1M8jgEwFfnCIfOTk4-">
-    <mxGraphModel dx="1186" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3312,7 +3312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR Cold Failover" id="sGn4RXD657Pezw8uWJS9">
-    <mxGraphModel dx="1186" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="587" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="D3bH0C1TvqdbU8z6rszH-0" />
         <mxCell id="D3bH0C1TvqdbU8z6rszH-1" parent="D3bH0C1TvqdbU8z6rszH-0" />
@@ -3367,7 +3367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10K Foot View" id="4fohMPInIcdc2Wl32Snf">
-    <mxGraphModel dx="1825" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1455" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="5S8KyfQf7_MGRbG9Hmqr-0" />
         <mxCell id="5S8KyfQf7_MGRbG9Hmqr-1" parent="5S8KyfQf7_MGRbG9Hmqr-0" />
@@ -3470,7 +3470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NetHub" id="8pyUs5HMfD2BW0JH2DDl">
-    <mxGraphModel dx="2372" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="3000" math="0" shadow="1">
+    <mxGraphModel dx="1892" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="3000" math="0" shadow="1">
       <root>
         <mxCell id="FCFbWTSFV0DRnRmtgGbN-0" />
         <mxCell id="FCFbWTSFV0DRnRmtgGbN-1" parent="FCFbWTSFV0DRnRmtgGbN-0" />
@@ -3801,7 +3801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Traffic to Firewalls" id="YeZ3umS6jMzi5D_i8rSU">
-    <mxGraphModel dx="1186" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-0" />
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-1" parent="H-j0jCW5uO8hl8RQRp3t-0" />
@@ -3811,9 +3811,10 @@
         <mxCell id="H-j0jCW5uO8hl8RQRp3t-7" value="East/West Traffic" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
           <mxGeometry x="459" y="730" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZZY_BQNLnis_9IbhfhJL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;dashed=1;" parent="H-j0jCW5uO8hl8RQRp3t-1" target="ZZY_BQNLnis_9IbhfhJL-21" edge="1">
+        <mxCell id="ZZY_BQNLnis_9IbhfhJL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;startArrow=none;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;dashed=1;" parent="H-j0jCW5uO8hl8RQRp3t-1" edge="1" source="ZZY_BQNLnis_9IbhfhJL-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="570" as="sourcePoint" />
+            <mxPoint x="441.5" y="570" as="sourcePoint" />
+            <mxPoint x="596.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-0" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;shadow=1;sketch=0;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
@@ -3847,7 +3848,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-21" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;shadow=1;sketch=0;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
-          <mxGeometry x="600" y="400" width="395" height="340" as="geometry" />
+          <mxGeometry x="600" y="320" width="395" height="420" as="geometry" />
         </mxCell>
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-22" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;shadow=1;sketch=0;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
           <mxGeometry x="635" y="460" width="130" height="240" as="geometry" />
@@ -3867,9 +3868,6 @@
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-30" value="Palo Alto Firewalls" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
           <mxGeometry x="738" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZZY_BQNLnis_9IbhfhJL-33" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=0;strokeColor=#FF0000;fillColor=none;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
-          <mxGeometry x="504" y="555" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZZY_BQNLnis_9IbhfhJL-37" value="Other Traffic" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
           <mxGeometry x="737.5" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3881,6 +3879,15 @@
         </mxCell>
         <mxCell id="I7UwUOXFcouODVqf9b49-4" value="Optional&lt;br&gt;VPC Firewalls" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
           <mxGeometry x="177" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZY_BQNLnis_9IbhfhJL-33" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=1;sketch=0;strokeColor=#FF0000;fillColor=none;" parent="H-j0jCW5uO8hl8RQRp3t-1" vertex="1">
+          <mxGeometry x="507" y="560" width="24" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="dNpFF43SFKEga0rHGfWk-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;startArrow=classic;startFill=1;endArrow=none;endFill=1;strokeColor=#000000;dashed=1;" edge="1" parent="H-j0jCW5uO8hl8RQRp3t-1" target="ZZY_BQNLnis_9IbhfhJL-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.5" y="570" as="sourcePoint" />
+            <mxPoint x="596.5" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
