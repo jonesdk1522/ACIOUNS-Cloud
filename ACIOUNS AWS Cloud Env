@@ -1,4 +1,4 @@
-<mxfile etag="igpr1mq2MhMAzEUpafqA" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" host="app.diagrams.net" modified="2022-02-10T16:09:06.081Z" version="16.5.6" type="github" pages="27">
+<mxfile etag="nEUKuPppdUXjQEaAZO2S" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" host="app.diagrams.net" modified="2022-02-10T16:26:31.381Z" version="16.5.6" type="github" pages="27">
   <diagram name="Front-page" id="3yU4pcRIojh-kbjbVprl">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -5275,6 +5275,9 @@
         </mxCell>
         <mxCell id="ZGUR5bBadeGbiZ6NkRSk-70" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;rounded=1;shadow=1;glass=0;" vertex="1" parent="ZGUR5bBadeGbiZ6NkRSk-65">
           <mxGeometry x="40" y="30" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YGuVdWBDimC3nBZnqCnV-15" value="" style="sketch=0;outlineConnect=0;fillColor=#FF3333;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_firewall;rounded=1;shadow=1;glass=0;" vertex="1" parent="ZGUR5bBadeGbiZ6NkRSk-70">
+          <mxGeometry x="-6" y="89.38" width="48" height="40.62" as="geometry" />
         </mxCell>
         <mxCell id="ZGUR5bBadeGbiZ6NkRSk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Znc7-v2Sqh5y8aMXmkXj-1" source="ZGUR5bBadeGbiZ6NkRSk-65" target="ZGUR5bBadeGbiZ6NkRSk-38">
           <mxGeometry relative="1" as="geometry">
