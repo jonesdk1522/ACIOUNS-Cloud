@@ -1,4 +1,4 @@
-<mxfile etag="yVe0j3FkUykNQetgiVd2" agent="5.0 (Windows)" host="app.diagrams.net" modified="2022-02-21T20:53:48.795Z" version="16.6.1" type="github" pages="27">
+<mxfile etag="v821uUuRMeJRhX2YHM4U" agent="5.0 (Windows)" host="app.diagrams.net" modified="2022-02-21T20:59:07.825Z" version="16.6.1" type="github" pages="27">
   <diagram name="Front-page" id="3yU4pcRIojh-kbjbVprl">
     <mxGraphModel dx="1422" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -451,8 +451,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Server Maintinance" id="7Eq2iZMlCE94ZzEp3rU5">
-    <mxGraphModel dx="7055" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="2000" math="0" shadow="0">
+  <diagram name="Workload Visibility" id="7Eq2iZMlCE94ZzEp3rU5">
+    <mxGraphModel dx="5870" dy="1240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="pl66USKo-c9CJ2pZmYf6-0" />
         <mxCell id="pl66USKo-c9CJ2pZmYf6-1" parent="pl66USKo-c9CJ2pZmYf6-0" />
@@ -879,8 +879,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="CF-WebDistribution-AWS" id="-K-vvC5Xkg_IStJ-Me4t">
-    <mxGraphModel dx="1422" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="4500" math="0" shadow="1">
+  <diagram name="Basic Web Distribution on AWS" id="-K-vvC5Xkg_IStJ-Me4t">
+    <mxGraphModel dx="3555" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="4500" math="0" shadow="1">
       <root>
         <mxCell id="ZLgk9ARcMlmKFDolM39u-0" />
         <mxCell id="ZLgk9ARcMlmKFDolM39u-1" parent="ZLgk9ARcMlmKFDolM39u-0" />
