@@ -1,4 +1,4 @@
-<mxfile etag="Fo4RJ75dQqyVvFAQV5Rs" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" host="app.diagrams.net" modified="2022-04-12T20:18:29.292Z" version="17.4.3" type="github" pages="22">
+<mxfile etag="KPHQ-A3gWjCJnhxHoRP9" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" host="app.diagrams.net" modified="2022-04-12T20:23:22.933Z" version="17.4.3" type="github" pages="22">
   <diagram name="Suggested Org Chart" id="PnjBww5-DbBlkQ1HM5JD">
     <mxGraphModel dx="1634" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1200" math="0" shadow="1">
       <root>
@@ -3149,7 +3149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CpcUGgz4r_-ZLxBE9D2M" name="Traffic Mirroring Centralized">
-    <mxGraphModel dx="1634" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Znc7-v2Sqh5y8aMXmkXj-0" />
         <mxCell id="Znc7-v2Sqh5y8aMXmkXj-1" parent="Znc7-v2Sqh5y8aMXmkXj-0" />
@@ -3921,7 +3921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8rFNAFENORIyEdUI0euA" name="Visibility">
-    <mxGraphModel dx="2430" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2274" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4287,7 +4287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FTcQNoULOiTIx6tjVZvV" name="3rd Party SSL Inspection Zone">
-    <mxGraphModel dx="2221" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="3477" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4979,7 +4979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3sfBfdqOJ1j5Z5-vJyqF" name="AWSVFW Inspection">
-    <mxGraphModel dx="3630" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="4277" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
